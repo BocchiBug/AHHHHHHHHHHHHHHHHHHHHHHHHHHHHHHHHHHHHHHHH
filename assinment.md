@@ -5,10 +5,10 @@
 ##### Ooh, black and yellow!
 ###### Let's shake it up a little.
 Barry! Breakfast is ready!
-Coming!
-<u>Hang on a second.</u>
-Hello?
-Barry?
+Coming!  
+<u>Hang on a second.</u>  
+Hello?  
+Barry?  
 Adam?
 Can you believe this is happening?
 I can't.
